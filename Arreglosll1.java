@@ -28,7 +28,7 @@ public class Arreglosll1 {
                 suma_negativos += numeros[i];
                 conteo_negativos++;
             }
-        }
+        }// Calculo del numero mayor y menor
         int mayor, menor;
         mayor = menor = numeros[i];
         
